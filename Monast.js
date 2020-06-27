@@ -7,7 +7,7 @@
      $("#accordion").accordion ({
          active: false,
          heightStyle: "content",
-         collapsible: true,
+         collapsible: true
      });
 
      /*******************************************************************************************************/
