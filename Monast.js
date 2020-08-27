@@ -1,7 +1,7 @@
  $(document).ready(function() {
 
      //Accordion for About Us page
-     $("#accordion").accordion ({
+     $(".accordion").accordion ({
          active: false,
          heightStyle: "content",
          collapsible: true
